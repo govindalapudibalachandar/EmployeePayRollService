@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-    import java.io.File;
+import java.io.File;
 
     public class FileUtils {
         public static boolean deleteFiles(File contentsToDelete) {
